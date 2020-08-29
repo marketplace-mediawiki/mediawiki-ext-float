@@ -1,8 +1,8 @@
-# Information / Информация
+# Information
 
 Выделение текста определённым цветом.
 
-## Install / Установка
+## Install
 
 1. Загрузите папки и файлы в директорию `extensions/MW_EXT_Color`.
 2. В самый низ файла `LocalSettings.php` добавьте строку:
@@ -11,12 +11,12 @@
 wfLoadExtension( 'MW_EXT_Color' );
 ```
 
-## Syntax / Синтаксис
+## Syntax
 
 ```html
 <color type="red">[CONTENT]</color>
 ```
 
-## Donations / Пожертвования
+## Donations
 
 - [Donation Form](https://donation-form.github.io/)
