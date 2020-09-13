@@ -16,14 +16,9 @@
       "role": "Developer"
     },
     {
-      "name": "Tails IM",
-      "email": "hello@tails.im",
-      "homepage": "https://tails.im/",
-      "role": "Developer"
-    },
-    {
       "name": "Kitsune Solar",
       "email": "kitsune.solar@gmail.com",
+      "homepage": "https://kitsune.solar",
       "role": "Developer"
     }
   ],
